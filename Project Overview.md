@@ -37,6 +37,12 @@ Anticipated timeline: Results due in July/August.
 
 - **Paper:** The project may lead to a research paper summarizing the methodology, results, and findings, which can be submitted to conferences or journals in the crisis informatics domain, such as ISCRAM or TREC.
 
+## Team Meetings
+### Friday, July 21, 2023
+Participants: Aary, Monty, Reza
+
+Decision: ?
+
 ## Professor's Instructions:
 ### Wed, Jul 19, 11:38 PM
 
@@ -47,8 +53,8 @@ Thanks very much for your quick response. Here are the stats:
 - Clinical Trials: Sean
 - NeuCLIR: Chang
 - Product Search: Chang, Aary
-- Crisis Facts: Aary, Monty, Reza
-- <b> Deep Learning: Monty, Reza </b>
+- <b> Crisis Facts: Aary, Monty, Reza </b>
+- Deep Learning: Monty, Reza
 - iKAT: Aritra
 
 So our next move is to have a plan. Can you go visit the website of each task and then 
