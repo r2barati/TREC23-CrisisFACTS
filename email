@@ -1,3 +1,0 @@
-We have already begun brainstorming ideas for our CrisisFacts project which is due by September.  Reza at the moment is looking at data exploration as described and given by the github for crisisFacts itself. 
-Then with the data in a more structured form (Emphasis on date/time and event of interest) we will go towards using various combinations of information retrieval techniques (i.e word embeddings, clusterings among others) to find which can have the best results in extractive and abstractive text summarization. 
-To highlight by importance the atomic facts we receive we will create an algorithm that me and Reza both agree on. For example, we can place importance on statistics and critical words.
