@@ -2,11 +2,12 @@ from transformers import pipeline
 !pip install --upgrade git+https://github.com/allenai/ir_datasets.git@crisisfacts # install ir_datasets (crisisfacts branch)
 
 credentials = {
-    "institution": "", # University, Company or Public Agency Name
-    "contactname": "", # Your Name
-    "email": "", # A contact email address
-    "institutiontype": "" # Either 'Research', 'Industry', or 'Public Sector'
+    "institution": "<Toronto Metropolitan University>", # University, Company or Public Agency Name
+    "contactname": "<Reza Barati, Aary Kartha>", # Your Name
+    "email": "<rezabarati@gmail.com, aaryaman.kartha@torontomu.ca>", # A contact email address
+    "institutiontype": "<Research>" # Either 'Research', 'Industry', or 'Public Sector'
 }
+
 
 # Write this to a file so it can be read when needed
 import json
