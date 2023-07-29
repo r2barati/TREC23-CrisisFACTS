@@ -1,4 +1,4 @@
 In NLP sentence-scoring is an important task that assesses how to measure how important a sentence is to a document. If we are doing extractive summarization then this would 
-be a usable technique. If we are doing abstractive summarization we can potentially use semantic similarity metrics or create our own function. Abstractive summaries are quite
-difficult to do this.
+be a usable technique. If we are doing abstractive summarization we can potentially use semantic similarity metrics or create our own function. Abstractive summaries make it 
+wuite difficult to do this.
 
