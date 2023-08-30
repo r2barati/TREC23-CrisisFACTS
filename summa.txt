@@ -1,0 +1,21 @@
+!pip install summa
+from summa.summarizer import summarize
+
+
+counter = 0
+documents = [ ] #Here we will have all the various article texts given in the content stream snippets
+
+for index,row in itemsAsDataFrame.iterrows():
+    text = row['text']
+
+    documents.append(text)
+    counter = counter + 1
+
+    if counter == 50: #
+      break
+joined_text = " ".join(documents)
+print(type(joined_text))
+summary = summarize(joined_text, ratio = 0.2) #summary ratio means how large the output summary will be relative to all input
+
+
+print(summary)
